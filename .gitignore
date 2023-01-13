@@ -1,5 +1,5 @@
 nbproject
 storage/mysql
-source/app
+source/app/*
 !source/app/.gitkeep
 .DS_Store
